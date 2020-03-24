@@ -1,4 +1,4 @@
-package com.emesonsantana.BMDPedometer;
+package com.t2tx.BMDPedometer;
 
 import android.content.Context;
 import android.hardware.Sensor;
